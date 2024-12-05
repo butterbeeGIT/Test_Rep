@@ -1,3 +1,5 @@
+using NUnit.Framework;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -28,6 +30,7 @@ public class CharacterMove : MonoBehaviour
             _animator.SetFloat("X", 0);
             _animator.SetFloat("Y", 0);
         }
+        
     }
 
     private Vector2 GetMove()
