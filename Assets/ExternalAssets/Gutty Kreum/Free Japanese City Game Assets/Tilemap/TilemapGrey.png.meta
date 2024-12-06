@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: cbc38dadeb8bad147a5af56744886d5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9102675120581672486
+    second: TilemapGrey_0
+  - first:
+      213: 4801872361337651450
+    second: TilemapGrey_1
+  - first:
+      213: -8304965065699335092
+    second: TilemapGrey_2
+  - first:
+      213: 873018163904936200
+    second: TilemapGrey_3
+  - first:
+      213: -8689101888222667811
+    second: TilemapGrey_4
+  - first:
+      213: -1434145778084751092
+    second: TilemapGrey_5
+  - first:
+      213: -4397481798371628018
+    second: TilemapGrey_6
+  - first:
+      213: 1576495161594307593
+    second: TilemapGrey_7
+  - first:
+      213: 3031766581071422963
+    second: TilemapGrey_8
+  - first:
+      213: -7734205269426252038
+    second: TilemapGrey_9
+  - first:
+      213: 9084607856562442188
+    second: TilemapGrey_10
+  - first:
+      213: -8736303355610355459
+    second: TilemapGrey_11
+  - first:
+      213: 5339811430377813985
+    second: TilemapGrey_12
+  - first:
+      213: 177360761865390401
+    second: TilemapGrey_13
+  - first:
+      213: -2586366223895652973
+    second: TilemapGrey_14
+  - first:
+      213: 4155780851196209213
+    second: TilemapGrey_15
+  - first:
+      213: 1911937690808941793
+    second: TilemapGrey_16
+  - first:
+      213: 8595570399845926190
+    second: TilemapGrey_17
+  - first:
+      213: -5472999701060023915
+    second: TilemapGrey_18
+  - first:
+      213: -985496836979401820
+    second: TilemapGrey_19
+  - first:
+      213: -6160756226072939138
+    second: TilemapGrey_20
+  - first:
+      213: -4032222245450865716
+    second: TilemapGrey_21
+  - first:
+      213: 1439508343056105265
+    second: TilemapGrey_22
+  - first:
+      213: 3550384795238795890
+    second: TilemapGrey_23
+  - first:
+      213: -6348785190118628899
+    second: TilemapGrey_24
+  - first:
+      213: 1386512245735547036
+    second: TilemapGrey_25
+  - first:
+      213: -5838679812049588621
+    second: TilemapGrey_26
+  - first:
+      213: 6396482645039506122
+    second: TilemapGrey_27
+  - first:
+      213: -4259636426374471036
+    second: TilemapGrey_28
+  - first:
+      213: -3507147572638375234
+    second: TilemapGrey_29
+  - first:
+      213: -523868913961569809
+    second: TilemapGrey_30
+  - first:
+      213: 6632809502562756541
+    second: TilemapGrey_31
+  - first:
+      213: 941351383571061821
+    second: TilemapGrey_32
+  - first:
+      213: 2121860197958031245
+    second: TilemapGrey_33
+  - first:
+      213: -279917389916234001
+    second: TilemapGrey_34
+  - first:
+      213: -7762803142817507072
+    second: TilemapGrey_35
+  - first:
+      213: -9058407062367007967
+    second: TilemapGrey_36
+  - first:
+      213: 1407443798241366748
+    second: TilemapGrey_37
+  - first:
+      213: 1488763716667635542
+    second: TilemapGrey_38
+  - first:
+      213: -4378588946915678980
+    second: TilemapGrey_39
+  - first:
+      213: 3159974538696714175
+    second: TilemapGrey_40
+  - first:
+      213: -1067124719246097596
+    second: TilemapGrey_41
+  - first:
+      213: 323614499508878867
+    second: TilemapGrey_42
+  - first:
+      213: -4563829471461458044
+    second: TilemapGrey_43
+  - first:
+      213: 4058792786928455068
+    second: TilemapGrey_44
+  - first:
+      213: -9109275758600008058
+    second: TilemapGrey_45
+  - first:
+      213: 8331756961107235946
+    second: TilemapGrey_46
+  - first:
+      213: 208214470088261886
+    second: TilemapGrey_47
+  - first:
+      213: 6963003669953711848
+    second: TilemapGrey_48
+  - first:
+      213: -4449698209024821654
+    second: TilemapGrey_49
+  - first:
+      213: -4157354184566567937
+    second: TilemapGrey_50
+  - first:
+      213: 4256035398473938361
+    second: TilemapGrey_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilemapGrey_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 193
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad181f3b43dcca180800000000000000
+      internalID: -9102675120581672486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 735
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af00c42a87da3a240800000000000000
+      internalID: 4801872361337651450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 748
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4466fa3646debc80800000000000000
+      internalID: -8304965065699335092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 747
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809740605659d1c00800000000000000
+      internalID: 873018163904936200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_4
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 748
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbdf479edb1a6780800000000000000
+      internalID: -8689101888222667811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_5
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 575
+        width: 386
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09d1256304e81ce0800000000000000
+      internalID: -1434145778084751092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_6
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 575
+        width: 130
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c20dd6a9109f2c0800000000000000
+      internalID: -4397481798371628018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_7
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 575
+        width: 386
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90463f03ff5d0e510800000000000000
+      internalID: 1576495161594307593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_8
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 575
+        width: 129
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5a9aa74aff21a20800000000000000
+      internalID: 3031766581071422963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 712
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6d4e7f8459aa490800000000000000
+      internalID: -7734205269426252038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 713
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf802696b2031e70800000000000000
+      internalID: 9084607856562442188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 723
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8aace826a62c680800000000000000
+      internalID: -8736303355610355459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_12
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 723
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e77d335432da1a40800000000000000
+      internalID: 5339811430377813985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_13
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 723
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14944185cac167200800000000000000
+      internalID: 177360761865390401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 720
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39591ad5f916b1cd0800000000000000
+      internalID: -2586366223895652973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 720
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38abe77aac4ca930800000000000000
+      internalID: 4155780851196209213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_16
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 720
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecf85d2331988a10800000000000000
+      internalID: 1911937690808941793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 665
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25cda4ccb9994770800000000000000
+      internalID: 8595570399845926190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_18
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 665
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5998f72e4cffb04b0800000000000000
+      internalID: -5472999701060023915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_19
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 613
+        width: 12
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab529029dfc252f0800000000000000
+      internalID: -985496836979401820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_20
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 613
+        width: 18
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75752d7ad8908aa0800000000000000
+      internalID: -6160756226072939138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_21
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 657
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3297c3b3baa08c0800000000000000
+      internalID: -4032222245450865716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_22
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 671
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ff11f06392af310800000000000000
+      internalID: 1439508343056105265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 671
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a08281920854130800000000000000
+      internalID: 3550384795238795890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_24
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 671
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1e7b3c18594e7a0800000000000000
+      internalID: -6348785190118628899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 644
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90ebcb9a81ed3310800000000000000
+      internalID: 1386512245735547036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_26
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 644
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e2a8545a7d8fea0800000000000000
+      internalID: -5838679812049588621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_27
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 607
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2e78d531fd4c850800000000000000
+      internalID: 6396482645039506122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 607
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482a2ad1d3bb2e4c0800000000000000
+      internalID: -4259636426374471036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_29
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 614
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb224064ddb145fc0800000000000000
+      internalID: -3507147572638375234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_30
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 624
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe173729ff7dab8f0800000000000000
+      internalID: -523868913961569809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_31
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 607
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7a617b9197c0c50800000000000000
+      internalID: 6632809502562756541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_32
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 511
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c539a881a501d00800000000000000
+      internalID: 941351383571061821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_33
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 586
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d871452ab9c527d10800000000000000
+      internalID: 2121860197958031245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_34
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 583
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee969fed988d1cf0800000000000000
+      internalID: -279917389916234001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_35
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 553
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0099313bbabf44490800000000000000
+      internalID: -7762803142817507072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_36
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 553
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b89b035c21a4280800000000000000
+      internalID: -9058407062367007967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_37
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 486
+        width: 216
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2d0837dae388310800000000000000
+      internalID: 1407443798241366748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_38
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 479
+        width: 216
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657f67666b629a410800000000000000
+      internalID: 1488763716667635542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_39
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 287
+        width: 514
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4a3a13d802c33c0800000000000000
+      internalID: -4378588946915678980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_40
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 351
+        width: 130
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7eb46c91c7adb20800000000000000
+      internalID: 3159974538696714175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 353
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4434c42c8bfc031f0800000000000000
+      internalID: -1067124719246097596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_42
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 262
+        width: 418
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e74673ca5bd7400800000000000000
+      internalID: 323614499508878867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_43
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 0
+        width: 290
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fb412a6450aa0c0800000000000000
+      internalID: -4563829471461458044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_44
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 231
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dc9c9098ab35830800000000000000
+      internalID: 4058792786928455068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_45
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 231
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ec197e5f9559180800000000000000
+      internalID: -9109275758600008058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_46
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 229
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a645fa500d850a370800000000000000
+      internalID: 8331756961107235946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_47
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 197
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef005b615f9b3e200800000000000000
+      internalID: 208214470088261886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_48
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee055d32fe81a060800000000000000
+      internalID: 6963003669953711848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_49
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66326ded0f7f32c0800000000000000
+      internalID: -4449698209024821654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_50
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb0d6f456c1e46c0800000000000000
+      internalID: -4157354184566567937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapGrey_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 19
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5f68d35a9701b30800000000000000
+      internalID: 4256035398473938361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
