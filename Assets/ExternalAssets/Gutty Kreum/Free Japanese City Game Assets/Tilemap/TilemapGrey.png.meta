@@ -1409,7 +1409,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TilemapGrey_0: -9102675120581672486
+      TilemapGrey_1: 4801872361337651450
+      TilemapGrey_10: 9084607856562442188
+      TilemapGrey_11: -8736303355610355459
+      TilemapGrey_12: 5339811430377813985
+      TilemapGrey_13: 177360761865390401
+      TilemapGrey_14: -2586366223895652973
+      TilemapGrey_15: 4155780851196209213
+      TilemapGrey_16: 1911937690808941793
+      TilemapGrey_17: 8595570399845926190
+      TilemapGrey_18: -5472999701060023915
+      TilemapGrey_19: -985496836979401820
+      TilemapGrey_2: -8304965065699335092
+      TilemapGrey_20: -6160756226072939138
+      TilemapGrey_21: -4032222245450865716
+      TilemapGrey_22: 1439508343056105265
+      TilemapGrey_23: 3550384795238795890
+      TilemapGrey_24: -6348785190118628899
+      TilemapGrey_25: 1386512245735547036
+      TilemapGrey_26: -5838679812049588621
+      TilemapGrey_27: 6396482645039506122
+      TilemapGrey_28: -4259636426374471036
+      TilemapGrey_29: -3507147572638375234
+      TilemapGrey_3: 873018163904936200
+      TilemapGrey_30: -523868913961569809
+      TilemapGrey_31: 6632809502562756541
+      TilemapGrey_32: 941351383571061821
+      TilemapGrey_33: 2121860197958031245
+      TilemapGrey_34: -279917389916234001
+      TilemapGrey_35: -7762803142817507072
+      TilemapGrey_36: -9058407062367007967
+      TilemapGrey_37: 1407443798241366748
+      TilemapGrey_38: 1488763716667635542
+      TilemapGrey_39: -4378588946915678980
+      TilemapGrey_4: -8689101888222667811
+      TilemapGrey_40: 3159974538696714175
+      TilemapGrey_41: -1067124719246097596
+      TilemapGrey_42: 323614499508878867
+      TilemapGrey_43: -4563829471461458044
+      TilemapGrey_44: 4058792786928455068
+      TilemapGrey_45: -9109275758600008058
+      TilemapGrey_46: 8331756961107235946
+      TilemapGrey_47: 208214470088261886
+      TilemapGrey_48: 6963003669953711848
+      TilemapGrey_49: -4449698209024821654
+      TilemapGrey_5: -1434145778084751092
+      TilemapGrey_50: -4157354184566567937
+      TilemapGrey_51: 4256035398473938361
+      TilemapGrey_6: -4397481798371628018
+      TilemapGrey_7: 1576495161594307593
+      TilemapGrey_8: 3031766581071422963
+      TilemapGrey_9: -7734205269426252038
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
